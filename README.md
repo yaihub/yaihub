@@ -6,6 +6,8 @@
 
 yaihub is a full-stack developer.
 
+<!---
+
 ## Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yaihub)
@@ -23,3 +25,4 @@ yaihub is a full-stack developer.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yaihub)
 [![built with heart](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![ForTheBadge powered-by-electricity](https://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+-->
